@@ -3,4 +3,5 @@ This apps helps to get phone in silent mode automatically whenever user get into
 and its uses google geofencing library
 
 #screenshots
-![]https://github.com/raghu619/SilentmeApp/blob/master/SilentmeApp/screenshots/screen_2.png
+
+![screen_2](https://user-images.githubusercontent.com/26144019/42128171-ecdfd462-7cc2-11e8-96ee-44ca8f9e98b5.png)
